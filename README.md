@@ -1,12 +1,13 @@
-= Akko/Ducky Keyboards Macros v1.0 =
+= Akko/Ducky Keyboards Macros v1.0 = 
+
 
 graph LR;
 a(Select custom layer<br>Long press FN+left Win);
 b(Start custom mode<br> Fn+Esc);
-c(Press and hold Fn+button directly<br>Clear Macro);
-d(Select a custom button);
+c(Press and hold Fn+button<br>Clear macro);
+d(Select a custom button<br>Fn+Button);
 e(Start custom<br>macro recording);
-f(End customization<br>macro recording);
+f(End customization<br>Fn+Button);
 g(Exit custom mode<br>Fn+Esc)
 h(Exit the custom layer<br>Back to default mode);
 
@@ -27,3 +28,4 @@ e-->f;
 f--start next button customization-->d;
 f-->g;
 g-->h;
+
