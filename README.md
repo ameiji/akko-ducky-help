@@ -1,5 +1,7 @@
 = Akko/Ducky Keyboards Macros v1.0 = 
 
+<img src='akko-ducky-help.svg'>
+
 These instrucions are in mermaid code, see https://mermaid-js.github.io/
 
 ```
