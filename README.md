@@ -1,6 +1,8 @@
 = Akko/Ducky Keyboards Macros v1.0 = 
 
+These instrucions are in mermaid code, see https://mermaid-js.github.io/
 
+```
 graph LR;
 a(Select custom layer<br>Long press FN+left Win);
 b(Start custom mode<br> Fn+Esc);
@@ -29,3 +31,4 @@ f--start next button customization-->d;
 f-->g;
 g-->h;
 
+```
