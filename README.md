@@ -1,8 +1,12 @@
-= Akko/Ducky Keyboards Macros v1.0 = 
+# Akko/Ducky Mechanical Keyboards Macros Guide
 
 <img src='akko-ducky-help.png'>
 
-These instrucions are in mermaid code, see https://mermaidjs.github.io
+
+These instructions are for Akko Makro v1.0 only.
+See https://www.akkogear.com/manual3108_1808_v2
+
+Diagram in [mermaid-js](https://mermaidjs.github.io) code 
 
 ```
 graph LR;
