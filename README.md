@@ -1,8 +1,8 @@
 = Akko/Ducky Keyboards Macros v1.0 = 
 
-<img src='akko-ducky-help.svg'>
+<img src='akko-ducky-help.jpeg'>
 
-These instrucions are in mermaid code, see https://mermaid-js.github.io/
+These instrucions are in mermaid code, see https://mermaidjs.github.io
 
 ```
 graph LR;
