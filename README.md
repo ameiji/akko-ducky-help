@@ -5,7 +5,7 @@ These instructions are for Akko Makro v1.0 only.
 See https://www.akkogear.com/manual3108_1808_v2
 
 
-## Function Key Combinations:
+## Function Key Combinations
 
 * `Fn + F1`	- File Explorer
 * `Fn + F2`	- E-mail
@@ -16,13 +16,13 @@ See https://www.akkogear.com/manual3108_1808_v2
 * `Fn + F7`	- Previous Song
 * `Fn + F8`	- Next Song
 
-## System Commands:
+## System Commands
 
 * Lock Windows Key: Press and hold `Fn + Win` together for 3 seconds.
 * Restore Factory Settings: Press and hold the `left Win + right Win` together for 3 seconds.
 
 
-## Macro Programming guide
+## Macro Programming
 
 ```mermaid
 graph LR;
