@@ -1,7 +1,5 @@
 # Akko/Ducky Mechanical Keyboards Macros Guide
 
-<img src='akko-ducky-help.png'>
-
 
 These instructions are for Akko Makro v1.0 only.
 See https://www.akkogear.com/manual3108_1808_v2
@@ -24,10 +22,9 @@ See https://www.akkogear.com/manual3108_1808_v2
 * Restore Factory Settings: Press and hold the `left Win + right Win` together for 3 seconds.
 
 
+## Macro Programming guide
 
-Diagram in [mermaid-js](https://mermaidjs.github.io) code 
-
-```
+```mermaid
 graph LR;
 a(Select custom layer<br>Long press FN+left Win);
 b(Start custom mode<br> Fn+Esc);
