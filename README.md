@@ -6,6 +6,25 @@
 These instructions are for Akko Makro v1.0 only.
 See https://www.akkogear.com/manual3108_1808_v2
 
+
+## Function Key Combinations:
+
+* `Fn + F1`	- File Explorer
+* `Fn + F2`	- E-mail
+* `Fn + F3`	- Windows Search
+* `Fn + F4`	- Browser Homepage
+* `Fn + F5`	- Media Player
+* `Fn + F6`	- Play/Pause
+* `Fn + F7`	- Previous Song
+* `Fn + F8`	- Next Song
+
+## System Commands:
+
+* Lock Windows Key: Press and hold `Fn + Win` together for 3 seconds.
+* Restore Factory Settings: Press and hold the `left Win + right Win` together for 3 seconds.
+
+
+
 Diagram in [mermaid-js](https://mermaidjs.github.io) code 
 
 ```
